@@ -1,16 +1,16 @@
-# 프로젝트 소개
+# Project Introduce
 
 * Korea It Academy final Project (코리아IT아카데미 최종 프로젝트)
 * 주제 : Let'sPort - 운동 모임 커뮤니티
 * 개발기간 : 2021.01.25 ~ 2021.02.19(약 4주)
 * 개발인원 : 5명
 
-# 데이터 모델
+# Database Model
 
 > _빨간 박스 : 제가 주로 사용했던 테이블입니다.
 
 
-# 사용한 기술
+# Used Technique
 
 * Java
 * HTML/CSS
@@ -19,7 +19,7 @@
 * Spring
 * MyBatis
 
-# 내가 구현한 기능
+# Features Implemented
 
 1. 커뮤니티
 
