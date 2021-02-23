@@ -8,8 +8,7 @@
 # Database Model
 
 > _빨간 박스 : 제가 주로 사용했던 테이블입니다.
-
-
+디비테이블-01.jpg
 # Used Technique
 
 * Java
