@@ -1,5 +1,4 @@
-![wjdgh823's github stats](https://github-readme-stats.vercel.app/api?username=wjdgh823&show_icons=true)
-
+끝없는 탐험정신이 끝없는 성장으로
 
 # Project Introduce
 
