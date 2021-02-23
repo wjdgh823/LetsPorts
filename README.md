@@ -1,4 +1,4 @@
-![wjdgh823's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![wjdgh823's github stats](https://github-readme-stats.vercel.app/api?username=wjdgh823&show_icons=true)
 
 
 # Project Introduce
