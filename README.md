@@ -1,3 +1,6 @@
+![wjdgh823's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+
+
 # Project Introduce
 
 * Korea It Academy final Project (코리아IT아카데미 최종 프로젝트)
@@ -7,8 +10,9 @@
 
 # Database Model
 
-> _빨간 박스 : 제가 주로 사용했던 테이블입니다.
-디비테이블-01.jpg
+> _빨간 박스 : 제가 주로 사용했던 테이블입니다
+> 
+
 # Used Technique
 
 * Java
